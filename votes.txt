@@ -1,0 +1,90 @@
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	5	6	7	
+State 5 	8	9	1	2	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	10	11	12	
+State 4 	13	14	15	16	
+State 5 	17	18	19	20	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	5	6	7	
+State 5 	8	9	1	2	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	1	1	1	
+State 2 	1	1	1	1	
+State 3 	1	1	1	1	
+State 4 	1	1	1	1	
+State 5 	1	1	1	1	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	5	6	7	
+State 5 	8	9	1	2	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	5	6	7	
+State 5 	8	9	1	2	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	0	1	2	
+State 4 	3	4	5	6	
+State 5 	7	8	9	0	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	0	1	2	
+State 4 	3	4	5	6	
+State 5 	7	8	9	0	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	1	1	1	
+State 2 	1	1	1	1	
+State 3 	1	1	1	1	
+State 4 	1	1	1	1	
+State 5 	1	1	1	1	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	0	1	2	
+State 4 	3	4	5	6	
+State 5 	7	8	90	5	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	55	5	5	
+State 5 	5	5	5	5	
+State 	 Candidate A  	 Candidate B 	 Candidate C 	 Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	5	6	7	
+State 5 	8	9	1	2	
+State 		Candidate A  	Candidate B 	Candidate C 	Candidate D
+State 1 	1	2	3	4	
+State 2 	5	6	7	8	
+State 3 	9	1	2	3	
+State 4 	4	5	6	7	
+State 5 	8	9	6	6	
+State 		Candidate A  	Candidate B 	Candidate C 	Candidate D
+State 1 	1	2	3	4	
+State 2 	5	1	2	3	
+State 3 	4	5	1	2	
+State 4 	3	4	5	1	
+State 5 	2	3	4	5	
+State 		Candidate A  	Candidate B 	Candidate C 	Candidate D
+State 1 	1	1	1	1	
+State 2 	1	1	1	1	
+State 3 	1	1	1	1	
+State 4 	11	1	1	1	
+State 5 	1	1	1	1	
